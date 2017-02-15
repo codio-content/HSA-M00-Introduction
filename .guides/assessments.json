@@ -1,0 +1,808 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2244912682",
+  "source": {
+   "name": "QuizQuestion1",
+   "showName": true,
+   "instructions": "Why are functions used?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "ec432973-9168-5066-3473-cc6c98ee1a28",
+     "correct": false,
+     "answer": "To make code more readable"
+    },
+    {
+     "_id": "ecac6e25-f8c5-c7a5-8e1c-92d143903e26",
+     "correct": true,
+     "answer": "To reduce repetition of code and to calculate a value\n"
+    },
+    {
+     "_id": "a6366772-788c-4230-0ef8-98232ff27bc5",
+     "correct": false,
+     "answer": "To make decisions\n"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1504645494",
+  "source": {
+   "name": "QuizQuestion2",
+   "showName": true,
+   "instructions": "What statement is used to create a function?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "c004fe14-6e3d-c19d-347d-ac17a5921ab9",
+     "correct": false,
+     "answer": "make"
+    },
+    {
+     "_id": "fae46450-6f62-3b90-96e0-5e92701e7db1",
+     "correct": false,
+     "answer": "ELIF"
+    },
+    {
+     "_id": "3512b541-9868-725c-ced2-808a2f938120",
+     "correct": true,
+     "answer": "def"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3067867553",
+  "source": {
+   "name": "QuizQuestion3",
+   "showName": true,
+   "instructions": "What is the only language that a compiler understands directly without any translation?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "34a111ba-9992-a16d-644e-dfdabab3ba54",
+     "correct": true,
+     "answer": "machine language, different for every type of CPU"
+    },
+    {
+     "_id": "b9d15dc8-b06e-af3d-58a4-284b81c409d8",
+     "correct": false,
+     "answer": "English, as spoken in Boston, Mass"
+    },
+    {
+     "_id": "6801612d-9bb2-9898-4721-15b149a82937",
+     "correct": false,
+     "answer": "BASIC, the Beginners' All-purpose Symbolic Instruction Code"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-825448199",
+  "source": {
+   "name": "QuizQuestion4",
+   "showName": true,
+   "instructions": "Which of the following contains a syntax error?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "dc91f9ab-9294-fc39-9633-c0f4a084071a",
+     "correct": false,
+     "answer": "print(\"We love computing\")"
+    },
+    {
+     "_id": "cff8a43a-e3ed-c89a-4d15-f18dd1f7cfd0",
+     "correct": true,
+     "answer": "pront(\"We love computing\")"
+    },
+    {
+     "_id": "d3443726-563e-df60-6191-57605608550d",
+     "correct": false,
+     "answer": "print(answer)"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-820473329",
+  "source": {
+   "name": "QuizQuestion5",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "The base-2 number 011011 is equal to the base-10 number <<<27>>>.",
+   "tokens": {
+    "blank": [
+     "27"
+    ],
+    "text": [
+     "The base-2 number 011011 is equal to the base-10 number ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-842311056",
+  "source": {
+   "name": "QuizQuestion6",
+   "showName": true,
+   "instructions": "With starting values A = 0, B = 1 what is the output at point D",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "cc14458e-49c6-6255-a1a2-a357da807b75",
+     "correct": false,
+     "answer": "0"
+    },
+    {
+     "_id": "901151c8-bdb9-2e12-c85d-786a33982fda",
+     "correct": true,
+     "answer": "1"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-664208884",
+  "source": {
+   "name": "QuizQuestion7",
+   "showName": true,
+   "instructions": "The sub problems of a deconstructed problem are guaranteed to be easy to solve.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b137bfa2-e810-792e-37d4-e7d0c0f8c864",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "1a6e1bec-d931-ab37-3ae5-5f1661abd0b2",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3384997560",
+  "source": {
+   "name": "QuizQuestion8",
+   "showName": true,
+   "instructions": "Which data type would be used for a number with a decimal like the number 3.14?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "519ec1d1-e0d5-013b-9ae1-96be9106cd20",
+     "correct": false,
+     "answer": "Integer"
+    },
+    {
+     "_id": "70c7ea82-17d8-08bd-7e53-22e77be8b88b",
+     "correct": true,
+     "answer": "Float"
+    },
+    {
+     "_id": "11e4b998-daea-9ee9-f13f-530b50b57386",
+     "correct": false,
+     "answer": "String"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2435595026",
+  "source": {
+   "name": "QuizQuestion9",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "A <<<model>>> represents the actions and responses of a real-world object.",
+   "tokens": {
+    "blank": [
+     "model"
+    ],
+    "text": [
+     "A ",
+     0,
+     " represents the actions and responses of a real-world object."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3112252118",
+  "source": {
+   "name": "QuizQuestion10",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "Dimmable LED light blubs work by turning off some of the LEDs that are in a cluster as the voltage drops.  In this scenario an embedded micro controller is responding to the <<<voltage>>> as an input and using the <<<LEDs>>> as an output.",
+   "tokens": {
+    "blank": [
+     "voltage",
+     "LEDs"
+    ],
+    "text": [
+     "Dimmable LED light blubs work by turning off some of the LEDs that are in a cluster as the voltage drops.  In this scenario an embedded micro controller is responding to the ",
+     0,
+     " as an input and using the ",
+     0,
+     " as an output."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2253003601",
+  "source": {
+   "name": "QuizQuestion11",
+   "showName": true,
+   "instructions": "Convert each hexadecmail to binary or binary to hexadecimal.  Each binary number will be an 8-bit number.  Include leading zeros if needed.",
+   "points": "6",
+   "showValues": true,
+   "text": "Binary: 11000000 Hexadecimal: <<<60>>>\nBinary: <<<00101010>>> Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: <<<F0>>>\nBinary: 00000011 Hexadecimal: <<<03>>>\nBinary: <<<10111000>>> Hexadecimal: B8\nBinary: 01011010 Hexadecimal: <<<5A>>>",
+   "tokens": {
+    "blank": [
+     "60",
+     "00101010",
+     "F0",
+     "03",
+     "10111000",
+     "5A"
+    ],
+    "text": [
+     "Binary: 11000000 Hexadecimal: ",
+     0,
+     "\nBinary: ",
+     0,
+     " Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: ",
+     0,
+     "\nBinary: 00000011 Hexadecimal: ",
+     0,
+     "\nBinary: ",
+     0,
+     " Hexadecimal: B8\nBinary: 01011010 Hexadecimal: ",
+     0
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-398916607",
+  "source": {
+   "name": "QuizQuestion12",
+   "showName": true,
+   "instructions": "The term \"big data\" refers to",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "670f4e4b-9d9d-bea9-e104-d76e71fe55f6",
+     "correct": false,
+     "answer": "Very large numbers used in cryptography."
+    },
+    {
+     "_id": "a94c74c1-99f2-1822-9854-e4b50c5d24e4",
+     "correct": true,
+     "answer": "Many individual data points gathered across thousands or millions of people."
+    },
+    {
+     "_id": "1428262b-0418-dd65-7092-6b3a2759284c",
+     "correct": true,
+     "answer": "Data processing by computers to find patterns that could not be found by hand."
+    },
+    {
+     "_id": "d12e1e44-9f15-b12b-dc00-5aa6b74bc0f4",
+     "correct": false,
+     "answer": "Large files that cannot fit onto one computer's hard drive."
+    },
+    {
+     "_id": "1c9c920a-2639-1576-4c25-de36139f7398",
+     "correct": true,
+     "answer": "Large datasets about everything from individual shopping habits to decades of climate data all of which can be analyzed for patterns and trends at some later point."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4128976613",
+  "source": {
+   "name": "QuizQuestion13",
+   "showName": true,
+   "instructions": "Which of the following is NOT an image type?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "347ec092-dd29-aff5-739d-ff81e9b56baf",
+     "correct": false,
+     "answer": ".png"
+    },
+    {
+     "_id": "b3618a03-0a7c-66c9-ac55-d806c904e4b1",
+     "correct": false,
+     "answer": ".gif"
+    },
+    {
+     "_id": "a6a1ac75-27cd-3f4d-8504-e2ef23f0747d",
+     "correct": false,
+     "answer": ".tiff"
+    },
+    {
+     "_id": "4fb13bab-6741-e7db-0aca-c7c5c5702439",
+     "correct": true,
+     "answer": ".pdf"
+    },
+    {
+     "_id": "ace35339-02b9-3e49-7f38-aedc48f2ad38",
+     "correct": false,
+     "answer": ".jpg"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3058297605",
+  "source": {
+   "name": "QuizQuestion14",
+   "showName": true,
+   "instructions": "The spread of information is similar to the spread of disease.  These can be modeled using computers to simulate connections.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "556bdeea-7671-9ec9-51c6-1b0de6ef4467",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "1a38a2bc-1805-9e07-bb15-6222c6e6c2e4",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3634514982",
+  "source": {
+   "name": "QuizQuestion15",
+   "showName": true,
+   "instructions": "In the CIA security triad, what does C stand for?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "0e0a978f-2f5c-0239-1785-398de9a83148",
+     "correct": false,
+     "answer": "Certified"
+    },
+    {
+     "_id": "75cb8b7f-022d-7cc9-fa3f-277d4460955a",
+     "correct": false,
+     "answer": "Censored"
+    },
+    {
+     "_id": "9cca57d4-b62e-d39c-bd26-2db157df43a8",
+     "correct": true,
+     "answer": "Confidentiality"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-812765400",
+  "source": {
+   "name": "QuizQuestion16",
+   "showName": true,
+   "instructions": "You are making a video for a class project and want to add sound.  You download music from creativecommons.org and provide attribution in your video.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "450b76c6-0a13-603c-e356-3855cd017773",
+     "correct": true,
+     "answer": "Legal"
+    },
+    {
+     "_id": "08ffd699-e73e-fdd4-f102-6ad0f46edd4b",
+     "correct": false,
+     "answer": "Illegal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2821947957",
+  "source": {
+   "name": "QuizQuestion17",
+   "showName": true,
+   "instructions": "Your English teacher assigns reading from The Adventures of Huckleberry Finn.  Since Mark Twain died in 1910, his works are not in the public domain.  Rather than checking out books, your teacher sends you a link to a PDF of the book.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5c584a2b-f004-1a21-96c1-1423aae45ce1",
+     "correct": false,
+     "answer": "Illegal"
+    },
+    {
+     "_id": "551e44ff-18a8-5773-37f6-a6f1b51f5656",
+     "correct": true,
+     "answer": "Legal"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2808054573",
+  "source": {
+   "name": "QuizQuestion18",
+   "showName": true,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "While Digital Natives have used technology for most of their lives, this use of technology does not guarantee universal <<<access>>> to technology.",
+   "tokens": {
+    "blank": [
+     "access"
+    ],
+    "text": [
+     "While Digital Natives have used technology for most of their lives, this use of technology does not guarantee universal ",
+     0,
+     " to technology."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1223512688",
+  "source": {
+   "name": "QuizQuestion19",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "The digital divide refers to the <<<gap>>> between people with and without access to technology.  More schools are providing laptops to students to minimize this effect.  Programs like this are known as <<<1:1>>> laptop programs.",
+   "tokens": {
+    "blank": [
+     "gap",
+     "1:1"
+    ],
+    "text": [
+     "The digital divide refers to the ",
+     0,
+     " between people with and without access to technology.  More schools are providing laptops to students to minimize this effect.  Programs like this are known as ",
+     0,
+     " laptop programs."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1258010828",
+  "source": {
+   "name": "QuizQuestion20",
+   "showName": true,
+   "instructions": "Web traffic uses which protocol?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "a4500aba-38ca-dd40-5707-a00c0a46ca97",
+     "correct": false,
+     "answer": "FTP"
+    },
+    {
+     "_id": "ece306f0-a580-8744-0367-efb804a28671",
+     "correct": true,
+     "answer": "HTTP"
+    },
+    {
+     "_id": "0694ffd4-0bc7-4f85-67f3-4cded84edce3",
+     "correct": false,
+     "answer": "SMTP"
+    },
+    {
+     "_id": "ef59b091-c2b1-56cd-f591-04502108d761",
+     "correct": false,
+     "answer": "Gopher"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-392685078",
+  "source": {
+   "name": "QuizQuestion21",
+   "showName": true,
+   "instructions": "There is a constant tension between privacy, wherein people can communicate with other people without any concerns of others listening in, and security, where people who would plot against the government, plan to do harm to people, or carryout illegal acts cannot hide.\n\nFor the scenario below, decide if security or privacy are being advantaged.\n\nScenario: A newspaper sets up a Pretty Good Privacy (PGP) email system to allow for anonymous tips to be sent through encrypted channels.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "b9e1279e-4041-c2fa-7bf5-b65e0b7756b7",
+     "correct": false,
+     "answer": "Security"
+    },
+    {
+     "_id": "aa427ada-ff1f-eea2-c4b8-1ffe40642900",
+     "correct": true,
+     "answer": "Privacy"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1595054865",
+  "source": {
+   "name": "QuizQuestion22",
+   "showName": true,
+   "instructions": "To prevent unauthorized access, two-factor authentication is used to log into a web site.  In addition to your username and password, a text message is sent to your phone with a security code that must be entered.  Which of the CIA Triad is affected by this policy?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "08db288e-64cb-f204-efbf-b79741a04168",
+     "correct": true,
+     "answer": "Confidentiality"
+    },
+    {
+     "_id": "9908b24a-36ba-f24d-7c9e-bdb44588d24e",
+     "correct": false,
+     "answer": "Integrity"
+    },
+    {
+     "_id": "2b58dbcf-8771-7dae-1eb1-bbde70d7a24a",
+     "correct": false,
+     "answer": "Availability"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-169992993",
+  "source": {
+   "name": "QuizQuestion23",
+   "showName": true,
+   "instructions": "",
+   "points": "2",
+   "showValues": true,
+   "text": "Frequency Analysis works in a Caesar Cipher because every <<<letter>>> is shifted by the same key.  This means that if the first A -> D then every A will map to a D.  The <<<Vigenere>>> cipher uses a different key for every letter, negating this flaw.",
+   "tokens": {
+    "blank": [
+     "letter",
+     "Vigenere"
+    ],
+    "text": [
+     "Frequency Analysis works in a Caesar Cipher because every ",
+     0,
+     " is shifted by the same key.  This means that if the first A -> D then every A will map to a D.  The ",
+     0,
+     " cipher uses a different key for every letter, negating this flaw."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2679731238",
+  "source": {
+   "name": "QuizQuestion24",
+   "showName": true,
+   "instructions": "Social Engineering is:",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "cf0e3ae5-8523-d7ba-24d6-181c28fd5de4",
+     "correct": false,
+     "answer": "Creating a false persona to gain access to a facility "
+    },
+    {
+     "_id": "0d13214a-2387-dd78-c657-06bcef28d31d",
+     "correct": false,
+     "answer": "Creating a program that guesses passwords based on things it is known that people like."
+    },
+    {
+     "_id": "4b827bac-06af-4808-0ff1-f4c2013c19ee",
+     "correct": true,
+     "answer": "Creating a situation where someone gives up their password or grants you access because they believe you to be authentic."
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2363405091",
+  "source": {
+   "name": "QuizQuestion25",
+   "showName": true,
+   "instructions": "A network with several computers networked with a centralized piece of hardware is known as which type of topology?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "160fc8c9-a7a5-50b5-d28e-5831b7fb92c4",
+     "correct": false,
+     "answer": "Bus"
+    },
+    {
+     "_id": "616934ec-9e16-a954-8eaa-206ac3fb0cb5",
+     "correct": false,
+     "answer": "Ring"
+    },
+    {
+     "_id": "53cf2998-bd22-0268-1c50-7ff81935886e",
+     "correct": false,
+     "answer": "Mesh"
+    },
+    {
+     "_id": "2f999f80-3bc3-5700-ebcc-f7282910d478",
+     "correct": true,
+     "answer": "Star"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1018882861",
+  "source": {
+   "name": "QuizQuestion26",
+   "showName": true,
+   "instructions": "Which of the following are examples of networking hardware?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "b765b3a0-0794-1a7d-89ed-a3f31da47391",
+     "correct": true,
+     "answer": "Router"
+    },
+    {
+     "_id": "35922cf4-ad73-76cf-e833-7412baf1c7f8",
+     "correct": false,
+     "answer": "Wifi"
+    },
+    {
+     "_id": "a3840436-369d-03e1-f524-7cb49377fbd6",
+     "correct": false,
+     "answer": "TCP/IP"
+    },
+    {
+     "_id": "2f3b246f-06a4-afb0-81fb-d97cc3826bfa",
+     "correct": true,
+     "answer": "Modem"
+    },
+    {
+     "_id": "5d206bab-832f-7da5-5e81-c6d724605b1e",
+     "correct": true,
+     "answer": "Switch"
+    },
+    {
+     "_id": "dcdf241b-4c74-248b-4ccb-5dfe4aebeea7",
+     "correct": true,
+     "answer": "Hub"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2498707078",
+  "source": {
+   "name": "QuizQuestion27",
+   "showName": true,
+   "instructions": "What term is given to running a function?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "5d85526f-5df2-819e-df5f-7f7e38f1975b",
+     "correct": true,
+     "answer": "Call"
+    },
+    {
+     "_id": "507db889-abc1-db0d-546d-e8b7e11550ef",
+     "correct": false,
+     "answer": "Perform"
+    },
+    {
+     "_id": "72805af6-41b8-8f66-cf45-97ea263a2fbe",
+     "correct": false,
+     "answer": "Execute"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3225994808",
+  "source": {
+   "name": "QuizQuestion28",
+   "showName": true,
+   "instructions": "**Select the correct answer for each “blank” from the available drop-down list.**\n",
+   "points": "5",
+   "showValues": true,
+   "text": "An <<<assembler>>> translates <<<assembly language>>> instructions into <<<machine code>>>. Compilers and <<<interpreters>>> carry out the translation for <<<high level>>> languages. ",
+   "tokens": {
+    "blank": [
+     "assembler",
+     "assembly language",
+     "machine code",
+     "interpreters",
+     "high level"
+    ],
+    "text": [
+     "An ",
+     0,
+     " translates ",
+     0,
+     " instructions into ",
+     0,
+     ". Compilers and ",
+     0,
+     " carry out the translation for ",
+     0,
+     " languages. "
+    ]
+   }
+  }
+ }
+]
