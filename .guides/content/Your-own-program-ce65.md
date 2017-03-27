@@ -1,5 +1,5 @@
-
-# challenge
+|||challenge
+# Challenge
 
 Using the program to the left write a program that
  - prints out your name
@@ -8,11 +8,14 @@ Using the program to the left write a program that
  
 Test your program
 {Run}(python .guides/content/Challenge1.py )
+|||
 
 |||guidance
 # Solution
-A sample solution would be 
-print "My name is Jane Doe"
-print "My favorite color is purple"
-print "My favorite meal is spaghetti"
+
+```python
+print 'my name is <student name>'
+print 'my favorite color is <student favorite color>'
+print 'my favorite meal is <student favorite meal>'
+```
 |||
