@@ -270,10 +270,10 @@
    "instructions": "Convert each hexadecmail to binary or binary to hexadecimal.  Each binary number will be an 8-bit number.  Include leading zeros if needed.",
    "points": "6",
    "showValues": true,
-   "text": "Binary: 11000000 Hexadecimal: <<<60>>>\nBinary: <<<00101010>>> Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: <<<F0>>>\nBinary: 00000011 Hexadecimal: <<<03>>>\nBinary: <<<10111000>>> Hexadecimal: B8\nBinary: 01011010 Hexadecimal: <<<5A>>>",
+   "text": "Binary: 11000000 Hexadecimal: <<<C0>>>\nBinary: <<<00101010>>> Hexadecimal: 2A\nBinary: 11110000 Hexadecimal: <<<F0>>>\nBinary: 00000011 Hexadecimal: <<<03>>>\nBinary: <<<10111000>>> Hexadecimal: B8\nBinary: 01011010 Hexadecimal: <<<5A>>>",
    "tokens": {
     "blank": [
-     "60",
+     "C0",
      "00101010",
      "F0",
      "03",
