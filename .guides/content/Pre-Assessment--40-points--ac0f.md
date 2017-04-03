@@ -53,7 +53,7 @@ Dimmable LED light blubs work by turning off some of the LEDs that are in a clus
 {Check It!|assessment}(fill-in-the-blanks-2253003601)
 |||guidance
 # Solution
-Binary: 11000000 Hexadecimal: **60**
+Binary: 11000000 Hexadecimal: **C0**
 Binary: **00101010** Hexadecimal: 2A
 Binary: 11110000 Hexadecimal: **F0**
 Binary: 00000011 Hexadecimal: **03**
